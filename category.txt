@@ -1,0 +1,12 @@
+{
+ "sha256": 0
+ "label": 0
+ "app_permissions": 0
+ "api_permissions": 0
+ "api_calls": 0
+ "activities": 0
+ "s_and_r": 0
+ "interesting_calls": 0
+ "urls": 0
+ "providers": 0
+ }
